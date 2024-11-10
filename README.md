@@ -1,4 +1,4 @@
-# hello_world
+# hello
 
 A new Flutter project created with https://flutlab.io
 
@@ -22,5 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
-
 
